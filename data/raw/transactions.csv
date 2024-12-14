@@ -1,0 +1,1001 @@
+transaction_id,customer_id,transaction_date,amount,payment_method,product_id,product_category,quantity,discount_applied,transaction_status
+1,1,4/14/2020,7290.23,PayPal,1,home goods,69,0.75,completed
+2,2,3/29/2020,9671.83,PayPal,2,home goods,48,0.84,pending
+3,3,8/9/2021,149.21,credit card,3,home goods,2,33.04,refunded
+4,4,4/13/2020,336.32,credit card,4,home goods,86,35.93,pending
+5,5,3/12/2021,1956.29,credit card,5,clothing,54,38.66,pending
+6,6,9/14/2020,2530.58,credit card,6,clothing,78,9.84,refunded
+7,7,3/10/2020,5244.62,PayPal,7,home goods,62,46.4,completed
+8,8,8/31/2021,6816.68,PayPal,8,home goods,79,23.73,completed
+9,9,9/9/2021,6848.52,credit card,9,home goods,69,46.8,refunded
+10,10,6/14/2021,3071.62,credit card,10,clothing,15,25.59,completed
+11,11,11/18/2021,910.98,debit card,11,clothing,52,19.16,pending
+12,12,2/7/2021,7277.48,credit card,12,home goods,74,41.39,pending
+13,13,4/4/2021,1213.86,debit card,13,clothing,70,33.25,completed
+14,14,1/25/2020,2746.13,credit card,14,electronics,18,30.01,pending
+15,15,9/9/2021,4932.35,credit card,15,clothing,93,35.72,completed
+16,16,8/24/2021,2042.71,credit card,16,home goods,12,22.84,completed
+17,17,6/20/2021,2136.39,debit card,17,clothing,25,14.65,refunded
+18,18,5/5/2020,8104.42,credit card,18,home goods,30,4.59,pending
+19,19,4/11/2020,7113.0,credit card,19,electronics,97,4.18,refunded
+20,20,5/2/2020,6015.68,credit card,20,electronics,86,44.5,completed
+21,21,12/16/2021,3903.96,PayPal,21,clothing,24,25.58,pending
+22,22,7/23/2020,3724.65,PayPal,22,home goods,34,4.89,completed
+23,23,6/25/2020,2278.35,credit card,23,electronics,92,22.85,completed
+24,24,8/9/2021,1911.15,debit card,24,electronics,7,23.89,completed
+25,25,10/28/2020,9764.36,credit card,25,home goods,51,16.25,completed
+26,26,11/15/2021,1387.06,PayPal,26,electronics,44,5.93,pending
+27,27,9/24/2021,6257.61,debit card,27,clothing,67,9.02,pending
+28,28,3/25/2020,832.69,PayPal,28,clothing,73,49.26,refunded
+29,29,5/5/2021,5086.39,credit card,29,clothing,1,13.22,pending
+30,30,2/2/2020,2855.44,credit card,30,clothing,37,20.76,completed
+31,31,11/2/2020,8551.19,debit card,31,electronics,9,20.17,pending
+32,32,12/14/2020,1914.39,debit card,32,home goods,73,1.43,pending
+33,33,9/3/2021,3186.53,debit card,33,electronics,77,2.86,pending
+34,34,2/6/2020,8029.88,credit card,34,electronics,66,42.68,completed
+35,35,8/12/2021,5732.15,debit card,35,electronics,25,3.62,pending
+36,36,12/18/2020,4105.55,PayPal,36,electronics,68,26.69,completed
+37,37,1/12/2021,2031.55,debit card,37,electronics,32,15.24,refunded
+38,38,11/14/2021,7894.15,debit card,38,home goods,51,36.79,refunded
+39,39,11/20/2021,7861.44,PayPal,39,clothing,90,7.88,pending
+40,40,5/23/2021,2675.04,debit card,40,home goods,16,45.22,refunded
+41,41,9/23/2021,828.51,PayPal,41,clothing,62,31.55,refunded
+42,42,9/14/2021,245.6,PayPal,42,electronics,82,0.43,completed
+43,43,7/4/2021,1918.17,credit card,43,home goods,18,42.84,refunded
+44,44,2/28/2020,9776.32,credit card,44,home goods,94,31.09,pending
+45,45,10/14/2021,501.83,credit card,45,electronics,20,33.63,pending
+46,46,11/22/2020,6843.62,PayPal,46,electronics,41,26.77,pending
+47,47,9/4/2021,8194.07,PayPal,47,electronics,47,42.23,refunded
+48,48,11/26/2020,7534.43,credit card,48,home goods,28,24.56,refunded
+49,49,5/14/2021,365.72,credit card,49,electronics,96,9.8,pending
+50,50,11/13/2020,7997.3,PayPal,50,clothing,92,30.74,pending
+51,51,8/15/2021,7571.5,credit card,51,home goods,61,6.36,pending
+52,52,8/10/2020,9115.65,debit card,52,electronics,85,47.8,refunded
+53,53,4/9/2020,3680.94,PayPal,53,home goods,36,33.91,pending
+54,54,7/16/2020,4558.81,credit card,54,clothing,69,31.82,pending
+55,55,1/2/2020,6725.92,debit card,55,home goods,94,22.54,completed
+56,56,12/21/2021,6719.39,PayPal,56,electronics,11,17.94,pending
+57,57,9/8/2021,8491.26,PayPal,57,clothing,76,31.54,pending
+58,58,7/24/2021,8619.41,PayPal,58,electronics,11,1.02,pending
+59,59,4/21/2020,4730.6,PayPal,59,home goods,86,20.6,pending
+60,60,7/23/2020,5361.38,debit card,60,electronics,52,10.74,pending
+61,61,4/12/2021,3671.66,debit card,61,clothing,24,42.03,completed
+62,62,3/18/2020,2857.88,debit card,62,clothing,25,3.1,completed
+63,63,10/17/2020,4940.67,PayPal,63,electronics,71,8.65,completed
+64,64,9/20/2021,9232.12,credit card,64,clothing,87,45.18,refunded
+65,65,5/21/2021,6172.66,debit card,65,clothing,63,23.7,completed
+66,66,2/20/2021,7730.71,credit card,66,home goods,82,46.72,completed
+67,67,8/31/2021,1460.14,credit card,67,home goods,93,1.4,completed
+68,68,12/19/2021,726.99,credit card,68,electronics,97,5.18,pending
+69,69,5/1/2020,7388.62,PayPal,69,clothing,1,26.77,refunded
+70,70,11/15/2021,6449.42,PayPal,70,clothing,57,25.09,pending
+71,71,9/4/2020,4569.44,debit card,71,home goods,52,28.22,pending
+72,72,12/12/2021,7501.44,credit card,72,clothing,28,20.93,refunded
+73,73,8/30/2020,5183.46,debit card,73,electronics,79,38.3,pending
+74,74,2/18/2021,9707.27,PayPal,74,electronics,67,0.03,completed
+75,75,2/1/2021,1250.33,debit card,75,home goods,93,30.98,refunded
+76,76,12/15/2020,3892.03,PayPal,76,electronics,100,26.5,pending
+77,77,10/10/2021,8797.32,PayPal,77,home goods,85,43.04,refunded
+78,78,6/5/2020,7906.97,credit card,78,home goods,71,26.89,pending
+79,79,8/3/2020,6638.59,credit card,79,clothing,5,12.03,completed
+80,80,5/18/2020,7671.78,debit card,80,home goods,70,48.33,pending
+81,81,2/19/2021,9855.33,credit card,81,electronics,70,30.87,completed
+82,82,12/3/2020,8377.56,PayPal,82,home goods,94,21.0,pending
+83,83,7/15/2021,5731.85,credit card,83,electronics,1,14.83,refunded
+84,84,10/29/2020,5792.2,credit card,84,home goods,29,21.3,completed
+85,85,12/25/2020,6847.91,credit card,85,electronics,33,40.82,pending
+86,86,7/31/2020,5838.91,PayPal,86,clothing,47,17.68,pending
+87,87,1/12/2021,6705.49,debit card,87,electronics,33,34.98,pending
+88,88,6/27/2020,2002.24,debit card,88,clothing,61,49.83,pending
+89,89,11/14/2021,9981.69,PayPal,89,clothing,93,4.52,refunded
+90,90,9/26/2021,9207.86,credit card,90,clothing,79,16.33,pending
+91,91,6/17/2020,4315.72,credit card,91,clothing,39,1.1,completed
+92,92,7/15/2021,9677.78,PayPal,92,home goods,69,38.48,pending
+93,93,2/2/2021,2656.7,PayPal,93,electronics,3,48.25,completed
+94,94,3/15/2021,8035.05,credit card,94,clothing,74,32.12,completed
+95,95,3/3/2020,5898.35,PayPal,95,clothing,27,27.41,refunded
+96,96,4/24/2020,2892.22,credit card,96,home goods,73,6.52,refunded
+97,97,5/15/2021,8656.25,credit card,97,clothing,69,42.61,completed
+98,98,9/27/2021,9061.78,debit card,98,electronics,8,24.23,completed
+99,99,8/31/2021,9511.68,debit card,99,home goods,22,10.18,refunded
+100,100,7/22/2020,2764.43,credit card,100,electronics,59,6.44,refunded
+101,101,5/22/2020,7706.71,debit card,101,home goods,15,34.75,completed
+102,102,4/24/2021,1482.48,debit card,102,electronics,63,29.87,pending
+103,103,3/10/2021,5523.83,PayPal,103,home goods,60,23.67,pending
+104,104,1/27/2021,5352.98,debit card,104,electronics,20,48.7,completed
+105,105,9/26/2021,889.57,credit card,105,electronics,19,11.68,completed
+106,106,10/11/2021,122.22,credit card,106,home goods,28,16.47,refunded
+107,107,5/15/2021,9669.93,PayPal,107,clothing,69,45.45,refunded
+108,108,9/4/2021,1743.49,debit card,108,home goods,81,48.6,pending
+109,109,2/1/2020,435.03,PayPal,109,home goods,42,1.93,completed
+110,110,6/28/2020,5854.53,PayPal,110,electronics,34,31.74,completed
+111,111,4/18/2020,5435.17,credit card,111,clothing,64,5.58,completed
+112,112,9/13/2020,5595.5,debit card,112,clothing,28,49.93,refunded
+113,113,9/4/2020,4234.33,PayPal,113,electronics,74,45.56,pending
+114,114,8/17/2021,2382.84,PayPal,114,clothing,43,3.91,pending
+115,115,10/5/2020,2116.78,debit card,115,clothing,84,9.03,refunded
+116,116,4/29/2020,6090.43,debit card,116,home goods,16,34.59,completed
+117,117,1/17/2021,3849.48,debit card,117,home goods,47,47.95,pending
+118,118,8/11/2021,4391.53,debit card,118,home goods,1,37.47,completed
+119,119,9/16/2021,3179.9,credit card,119,home goods,13,36.03,refunded
+120,120,11/26/2020,3498.74,debit card,120,clothing,24,21.76,completed
+121,121,12/29/2020,3196.57,credit card,121,home goods,30,4.96,pending
+122,122,10/16/2021,5458.62,debit card,122,electronics,49,15.96,completed
+123,123,9/15/2020,9229.08,credit card,123,electronics,84,30.56,pending
+124,124,9/16/2021,5108.6,credit card,124,clothing,53,3.63,pending
+125,125,4/22/2021,2154.49,credit card,125,home goods,90,8.87,completed
+126,126,9/8/2021,4071.07,credit card,126,clothing,5,30.56,pending
+127,127,12/23/2020,6574.87,debit card,127,clothing,71,3.04,completed
+128,128,11/25/2020,8087.96,debit card,128,clothing,3,47.96,pending
+129,129,9/10/2020,2376.09,PayPal,129,home goods,54,23.81,refunded
+130,130,6/27/2021,2078.58,PayPal,130,electronics,86,28.51,refunded
+131,131,11/12/2021,7171.81,PayPal,131,home goods,29,35.27,pending
+132,132,10/4/2020,640.09,debit card,132,electronics,16,30.68,completed
+133,133,11/26/2021,5703.94,debit card,133,clothing,67,23.18,pending
+134,134,12/16/2020,7581.16,PayPal,134,home goods,41,11.06,pending
+135,135,5/7/2021,1542.71,PayPal,135,clothing,10,47.79,refunded
+136,136,9/4/2021,8303.3,debit card,136,clothing,41,15.65,completed
+137,137,7/17/2020,2793.38,PayPal,137,clothing,48,2.69,refunded
+138,138,8/16/2020,59.56,credit card,138,clothing,58,48.8,pending
+139,139,7/12/2020,6025.15,debit card,139,electronics,48,11.02,pending
+140,140,3/22/2020,3350.11,PayPal,140,electronics,19,37.67,pending
+141,141,4/30/2020,3044.76,debit card,141,clothing,8,6.5,pending
+142,142,5/27/2020,6726.98,credit card,142,home goods,89,0.43,refunded
+143,143,7/1/2020,1682.91,debit card,143,home goods,46,8.21,completed
+144,144,4/14/2020,7792.81,debit card,144,home goods,30,41.55,pending
+145,145,3/24/2021,3062.21,debit card,145,electronics,77,36.58,pending
+146,146,11/18/2020,111.19,PayPal,146,home goods,67,46.76,refunded
+147,147,9/11/2021,4355.74,PayPal,147,clothing,41,1.55,pending
+148,148,4/22/2020,4600.54,credit card,148,home goods,74,30.4,completed
+149,149,8/1/2020,8442.42,credit card,149,electronics,98,19.26,completed
+150,150,8/28/2021,8781.97,debit card,150,clothing,79,31.89,pending
+151,151,3/12/2020,3345.12,debit card,151,home goods,48,4.46,refunded
+152,152,4/25/2021,1740.43,PayPal,152,clothing,10,25.64,refunded
+153,153,9/6/2021,2314.1,debit card,153,home goods,3,2.88,pending
+154,154,1/29/2020,7006.78,PayPal,154,clothing,27,39.32,refunded
+155,155,8/30/2020,83.64,credit card,155,electronics,12,34.85,completed
+156,156,5/14/2021,171.35,debit card,156,clothing,15,15.06,completed
+157,157,9/7/2021,5228.51,credit card,157,home goods,78,19.25,pending
+158,158,1/13/2021,8230.94,debit card,158,electronics,6,34.37,completed
+159,159,4/5/2020,8517.21,debit card,159,electronics,100,30.64,refunded
+160,160,3/14/2021,3353.18,PayPal,160,clothing,10,47.65,completed
+161,161,4/23/2020,1110.1,PayPal,161,clothing,39,41.0,completed
+162,162,1/28/2020,6450.69,debit card,162,home goods,94,38.96,refunded
+163,163,5/14/2020,8169.05,PayPal,163,clothing,10,11.71,pending
+164,164,8/26/2021,8604.03,credit card,164,electronics,20,12.78,pending
+165,165,12/12/2021,4967.08,PayPal,165,electronics,65,33.54,refunded
+166,166,1/24/2021,5385.18,credit card,166,home goods,95,41.09,pending
+167,167,4/8/2020,2269.49,PayPal,167,home goods,94,38.42,refunded
+168,168,12/1/2021,1072.23,PayPal,168,electronics,60,29.4,pending
+169,169,10/23/2020,4680.87,credit card,169,electronics,28,49.69,completed
+170,170,1/1/2021,82.55,PayPal,170,clothing,100,45.67,pending
+171,171,7/15/2020,4119.32,debit card,171,electronics,61,11.26,pending
+172,172,11/8/2020,4803.26,PayPal,172,home goods,55,9.41,completed
+173,173,6/21/2021,2206.84,debit card,173,electronics,75,45.33,completed
+174,174,9/14/2021,8563.53,debit card,174,clothing,90,21.74,refunded
+175,175,9/6/2021,9348.64,credit card,175,clothing,86,4.38,pending
+176,176,4/11/2020,3018.88,credit card,176,home goods,32,45.69,completed
+177,177,9/7/2021,5486.65,PayPal,177,electronics,21,28.29,pending
+178,178,6/17/2021,1417.68,credit card,178,electronics,48,49.16,pending
+179,179,2/14/2020,6316.23,PayPal,179,clothing,55,42.09,pending
+180,180,8/3/2020,6644.4,debit card,180,clothing,38,7.69,pending
+181,181,7/26/2020,3921.87,debit card,181,clothing,65,22.39,pending
+182,182,3/5/2020,177.11,debit card,182,electronics,47,48.45,refunded
+183,183,5/7/2020,450.24,credit card,183,electronics,85,11.63,completed
+184,184,3/10/2020,4230.58,PayPal,184,home goods,26,17.71,completed
+185,185,1/2/2020,324.59,credit card,185,electronics,73,46.07,refunded
+186,186,8/24/2020,9214.5,PayPal,186,home goods,59,23.51,completed
+187,187,9/1/2021,73.96,credit card,187,home goods,35,31.72,refunded
+188,188,7/11/2020,8677.45,credit card,188,electronics,72,16.15,pending
+189,189,9/25/2021,2323.04,credit card,189,electronics,30,3.29,completed
+190,190,12/21/2021,2496.68,PayPal,190,home goods,14,5.13,pending
+191,191,11/7/2021,7033.37,PayPal,191,clothing,52,7.52,pending
+192,192,2/27/2020,4369.6,credit card,192,home goods,99,15.33,completed
+193,193,6/1/2020,1613.27,debit card,193,home goods,9,35.44,refunded
+194,194,6/25/2021,5204.98,credit card,194,electronics,40,22.4,pending
+195,195,12/23/2021,2062.15,PayPal,195,home goods,1,27.86,completed
+196,196,2/28/2021,998.77,debit card,196,home goods,61,7.35,refunded
+197,197,10/4/2021,5491.36,debit card,197,electronics,45,19.08,pending
+198,198,9/14/2020,9742.52,credit card,198,clothing,93,2.48,completed
+199,199,5/2/2021,3718.42,PayPal,199,electronics,85,28.44,refunded
+200,200,1/24/2020,648.71,PayPal,200,clothing,100,23.11,refunded
+201,201,12/26/2020,9958.08,PayPal,201,home goods,59,36.67,pending
+202,202,3/28/2021,5623.03,credit card,202,electronics,21,15.23,refunded
+203,203,2/13/2020,7957.79,debit card,203,electronics,12,11.12,refunded
+204,204,5/24/2021,825.4,PayPal,204,electronics,26,36.53,refunded
+205,205,1/13/2020,198.42,credit card,205,clothing,82,40.59,pending
+206,206,8/8/2020,1541.13,credit card,206,electronics,79,35.09,completed
+207,207,3/30/2021,5366.98,credit card,207,electronics,57,12.96,completed
+208,208,8/12/2021,4970.78,debit card,208,electronics,71,31.19,refunded
+209,209,5/23/2021,725.78,debit card,209,clothing,20,31.61,refunded
+210,210,6/19/2021,4947.86,credit card,210,home goods,25,24.81,pending
+211,211,7/14/2020,8218.19,debit card,211,home goods,76,14.75,pending
+212,212,2/28/2020,173.35,PayPal,212,home goods,90,48.41,refunded
+213,213,4/2/2020,6383.86,credit card,213,clothing,62,9.38,refunded
+214,214,11/11/2021,2106.59,debit card,214,home goods,16,13.68,completed
+215,215,3/28/2020,9994.47,credit card,215,clothing,87,44.9,refunded
+216,216,4/27/2021,7402.07,credit card,216,home goods,1,28.89,pending
+217,217,7/17/2020,2717.37,debit card,217,electronics,14,49.16,pending
+218,218,6/4/2021,7622.47,credit card,218,electronics,81,26.44,completed
+219,219,10/10/2021,8173.99,credit card,219,home goods,2,25.81,pending
+220,220,2/3/2020,6396.67,PayPal,220,home goods,82,12.05,completed
+221,221,8/7/2020,6072.63,PayPal,221,home goods,96,48.11,refunded
+222,222,9/4/2020,1457.27,debit card,222,electronics,3,34.92,refunded
+223,223,7/11/2020,8351.12,PayPal,223,home goods,82,7.21,refunded
+224,224,3/19/2020,4173.88,credit card,224,home goods,84,33.54,refunded
+225,225,9/30/2020,8368.69,credit card,225,clothing,78,41.13,completed
+226,226,5/20/2021,8571.19,PayPal,226,electronics,72,46.11,completed
+227,227,8/18/2021,9956.32,PayPal,227,clothing,57,35.21,pending
+228,228,12/22/2021,8410.86,PayPal,228,home goods,45,46.75,pending
+229,229,7/27/2021,9536.98,credit card,229,electronics,61,45.96,refunded
+230,230,9/26/2020,2412.78,credit card,230,clothing,69,14.54,refunded
+231,231,5/3/2020,4738.09,credit card,231,electronics,8,1.12,refunded
+232,232,12/10/2020,9524.8,credit card,232,electronics,13,9.81,refunded
+233,233,8/3/2020,4658.33,debit card,233,home goods,67,39.68,refunded
+234,234,10/21/2021,3727.68,PayPal,234,clothing,86,20.52,refunded
+235,235,6/21/2020,2315.81,PayPal,235,home goods,36,13.02,completed
+236,236,3/10/2021,9935.57,PayPal,236,electronics,44,38.15,refunded
+237,237,10/5/2020,4990.2,debit card,237,clothing,84,22.63,refunded
+238,238,2/9/2021,9959.04,debit card,238,clothing,17,29.71,refunded
+239,239,1/14/2020,463.57,debit card,239,clothing,16,48.57,pending
+240,240,11/25/2021,2990.13,debit card,240,electronics,80,48.83,pending
+241,241,5/4/2020,2542.08,debit card,241,electronics,42,47.09,completed
+242,242,10/24/2020,1382.82,PayPal,242,home goods,62,4.47,refunded
+243,243,6/14/2021,2916.52,PayPal,243,home goods,20,45.81,completed
+244,244,11/22/2021,3357.18,debit card,244,home goods,93,14.36,completed
+245,245,9/25/2021,5681.24,credit card,245,electronics,43,0.31,refunded
+246,246,6/2/2021,9900.22,credit card,246,home goods,88,0.48,pending
+247,247,12/16/2021,8823.82,debit card,247,clothing,31,34.19,refunded
+248,248,1/12/2021,1142.16,debit card,248,home goods,9,2.03,refunded
+249,249,7/11/2021,9470.37,debit card,249,home goods,79,38.69,completed
+250,250,4/8/2021,1944.23,PayPal,250,clothing,54,3.19,completed
+251,251,3/27/2021,3767.76,credit card,251,home goods,69,35.82,refunded
+252,252,7/30/2021,2997.65,credit card,252,electronics,83,30.49,completed
+253,253,6/3/2020,3206.01,debit card,253,electronics,29,12.6,refunded
+254,254,2/27/2020,1704.24,credit card,254,electronics,83,42.26,refunded
+255,255,2/28/2021,8965.8,debit card,255,clothing,25,0.34,pending
+256,256,3/28/2021,4990.56,PayPal,256,home goods,68,28.95,completed
+257,257,7/11/2020,1393.54,PayPal,257,electronics,99,12.33,pending
+258,258,9/9/2021,5556.58,debit card,258,home goods,43,3.58,refunded
+259,259,4/3/2020,5135.24,PayPal,259,electronics,83,17.44,refunded
+260,260,6/5/2021,6747.67,debit card,260,home goods,99,40.84,refunded
+261,261,4/14/2021,9279.53,debit card,261,electronics,90,38.54,completed
+262,262,5/25/2021,5266.82,PayPal,262,clothing,1,13.56,completed
+263,263,12/13/2021,8595.62,debit card,263,home goods,62,3.9,pending
+264,264,12/15/2021,607.01,debit card,264,electronics,25,19.99,completed
+265,265,12/18/2020,4357.64,credit card,265,electronics,68,41.14,completed
+266,266,4/20/2021,3251.55,PayPal,266,clothing,84,18.66,completed
+267,267,4/4/2020,0.46,credit card,267,home goods,19,9.78,pending
+268,268,3/20/2020,4440.64,PayPal,268,home goods,58,42.63,completed
+269,269,1/27/2020,148.58,PayPal,269,home goods,36,37.37,completed
+270,270,3/5/2021,956.25,debit card,270,electronics,44,48.98,refunded
+271,271,9/14/2021,2538.35,debit card,271,electronics,3,41.96,completed
+272,272,5/23/2020,7212.32,credit card,272,home goods,2,18.61,pending
+273,273,12/25/2021,3523.14,PayPal,273,home goods,29,1.26,pending
+274,274,11/27/2020,1038.88,credit card,274,home goods,41,40.43,refunded
+275,275,6/6/2021,829.22,PayPal,275,clothing,97,9.84,completed
+276,276,12/30/2021,7674.04,credit card,276,home goods,32,11.95,refunded
+277,277,6/17/2021,1841.84,PayPal,277,clothing,87,24.11,refunded
+278,278,9/13/2021,3055.85,debit card,278,electronics,54,16.43,completed
+279,279,10/8/2021,6457.79,PayPal,279,clothing,98,22.32,pending
+280,280,2/2/2020,7109.49,debit card,280,clothing,34,29.03,refunded
+281,281,2/1/2020,2751.91,debit card,281,electronics,32,17.52,refunded
+282,282,5/7/2021,6948.42,credit card,282,clothing,10,30.76,completed
+283,283,3/25/2020,5784.07,PayPal,283,clothing,79,14.21,refunded
+284,284,9/30/2021,7249.1,PayPal,284,clothing,23,5.8,completed
+285,285,9/16/2021,2787.22,credit card,285,home goods,23,21.82,pending
+286,286,7/12/2021,856.34,credit card,286,clothing,29,0.15,completed
+287,287,6/2/2020,3897.13,PayPal,287,clothing,55,13.69,pending
+288,288,6/19/2020,9735.49,PayPal,288,clothing,35,19.51,completed
+289,289,11/3/2021,7652.62,debit card,289,clothing,96,12.18,refunded
+290,290,1/1/2020,8755.06,PayPal,290,clothing,83,34.25,pending
+291,291,6/11/2020,6109.03,debit card,291,home goods,74,41.24,refunded
+292,292,3/31/2021,5451.32,credit card,292,electronics,26,16.2,pending
+293,293,5/22/2020,8451.53,credit card,293,electronics,60,19.92,refunded
+294,294,7/3/2021,7724.6,debit card,294,home goods,1,31.92,pending
+295,295,3/1/2021,9581.52,credit card,295,electronics,66,27.95,pending
+296,296,7/21/2020,4452.3,PayPal,296,clothing,19,2.44,pending
+297,297,11/13/2021,7641.07,credit card,297,electronics,35,9.7,pending
+298,298,12/7/2021,6837.42,debit card,298,electronics,32,8.75,refunded
+299,299,5/4/2021,1726.31,credit card,299,electronics,42,20.17,refunded
+300,300,11/15/2020,8363.17,credit card,300,home goods,34,17.25,pending
+301,301,4/8/2021,9699.31,credit card,301,home goods,82,41.14,pending
+302,302,1/26/2021,2673.3,debit card,302,home goods,93,36.04,pending
+303,303,5/3/2021,2832.46,PayPal,303,electronics,11,14.09,refunded
+304,304,12/21/2021,8893.27,debit card,304,electronics,79,0.02,completed
+305,305,10/11/2021,8724.27,debit card,305,electronics,7,5.62,completed
+306,306,8/28/2021,1070.94,PayPal,306,electronics,73,48.81,pending
+307,307,4/4/2021,3198.49,PayPal,307,home goods,24,1.73,pending
+308,308,11/19/2020,5759.74,credit card,308,electronics,82,35.37,completed
+309,309,12/17/2021,1930.12,debit card,309,home goods,87,38.44,refunded
+310,310,1/27/2021,572.9,PayPal,310,home goods,87,31.49,refunded
+311,311,6/11/2020,8624.75,PayPal,311,clothing,30,35.35,completed
+312,312,12/27/2021,315.18,PayPal,312,home goods,25,9.0,refunded
+313,313,12/16/2021,8153.02,debit card,313,home goods,62,34.07,refunded
+314,314,7/12/2021,2649.45,PayPal,314,electronics,82,16.71,refunded
+315,315,3/4/2020,7118.89,PayPal,315,home goods,20,24.78,completed
+316,316,9/14/2020,7147.0,credit card,316,electronics,59,47.11,refunded
+317,317,10/16/2021,5477.73,debit card,317,home goods,88,28.59,pending
+318,318,4/30/2020,267.89,PayPal,318,home goods,96,36.69,refunded
+319,319,4/8/2020,8458.23,debit card,319,home goods,37,1.4,pending
+320,320,10/9/2021,9054.78,PayPal,320,clothing,86,7.01,refunded
+321,321,7/4/2021,1689.77,debit card,321,home goods,61,27.73,refunded
+322,322,3/7/2020,5060.3,debit card,322,clothing,96,25.17,pending
+323,323,8/25/2020,3882.56,debit card,323,electronics,26,14.07,pending
+324,324,11/18/2020,8322.85,credit card,324,electronics,25,38.44,pending
+325,325,12/16/2020,6196.96,PayPal,325,clothing,61,28.07,pending
+326,326,12/11/2021,4323.36,credit card,326,clothing,47,9.81,completed
+327,327,5/15/2021,8170.89,debit card,327,home goods,27,17.23,refunded
+328,328,1/31/2020,870.72,PayPal,328,clothing,26,21.35,pending
+329,329,8/4/2020,6820.64,PayPal,329,home goods,6,31.52,completed
+330,330,4/24/2020,6693.01,credit card,330,electronics,78,21.21,pending
+331,331,12/23/2021,4893.31,debit card,331,electronics,38,4.06,pending
+332,332,5/25/2021,1257.62,debit card,332,home goods,55,11.65,pending
+333,333,4/12/2021,6601.87,credit card,333,home goods,33,7.3,completed
+334,334,11/22/2021,1473.0,credit card,334,clothing,17,17.1,refunded
+335,335,8/30/2021,9280.39,credit card,335,clothing,46,7.26,refunded
+336,336,11/20/2021,602.93,debit card,336,electronics,13,49.89,completed
+337,337,12/22/2021,377.83,debit card,337,clothing,58,26.22,pending
+338,338,11/17/2020,8295.08,debit card,338,electronics,68,34.19,refunded
+339,339,4/17/2020,2290.9,credit card,339,electronics,61,44.82,completed
+340,340,10/1/2020,4293.14,PayPal,340,clothing,77,6.52,pending
+341,341,6/22/2020,367.35,credit card,341,home goods,88,28.73,pending
+342,342,8/17/2021,635.5,debit card,342,electronics,65,39.79,pending
+343,343,5/22/2021,4860.99,PayPal,343,electronics,43,19.63,completed
+344,344,2/23/2020,5070.73,debit card,344,clothing,82,37.63,pending
+345,345,1/3/2020,4602.39,PayPal,345,clothing,84,47.25,pending
+346,346,3/10/2021,6720.91,debit card,346,electronics,45,25.3,completed
+347,347,3/17/2021,4137.46,credit card,347,clothing,53,28.68,pending
+348,348,12/10/2020,1204.3,credit card,348,clothing,87,17.81,completed
+349,349,11/24/2021,4198.53,PayPal,349,clothing,46,47.78,pending
+350,350,12/28/2020,8937.52,credit card,350,electronics,6,19.6,completed
+351,351,2/15/2021,2970.0,debit card,351,electronics,64,48.31,completed
+352,352,7/5/2021,8102.39,credit card,352,electronics,13,49.49,completed
+353,353,9/26/2021,4821.11,PayPal,353,clothing,83,34.61,completed
+354,354,1/20/2021,6952.96,credit card,354,clothing,76,33.37,completed
+355,355,7/29/2020,6844.01,PayPal,355,clothing,38,19.4,completed
+356,356,6/14/2020,194.58,PayPal,356,clothing,46,34.48,refunded
+357,357,11/19/2021,9518.16,debit card,357,electronics,30,43.23,pending
+358,358,3/6/2020,5347.97,credit card,358,electronics,16,10.78,refunded
+359,359,4/20/2020,8736.4,debit card,359,clothing,94,6.61,refunded
+360,360,8/21/2021,8460.71,PayPal,360,home goods,88,31.23,pending
+361,361,3/12/2021,5556.96,PayPal,361,home goods,62,44.8,refunded
+362,362,12/19/2021,9502.4,credit card,362,home goods,54,38.51,completed
+363,363,5/9/2020,1374.26,PayPal,363,electronics,82,24.79,refunded
+364,364,9/10/2020,3049.06,debit card,364,clothing,8,34.97,completed
+365,365,6/15/2021,9940.68,credit card,365,clothing,28,33.25,pending
+366,366,12/13/2020,1599.32,credit card,366,electronics,46,0.87,completed
+367,367,8/21/2020,1786.74,credit card,367,home goods,67,47.55,pending
+368,368,4/2/2021,4758.3,credit card,368,home goods,75,47.19,completed
+369,369,6/18/2020,2616.64,credit card,369,clothing,40,41.79,completed
+370,370,3/9/2020,516.93,credit card,370,home goods,100,45.16,completed
+371,371,3/2/2021,6665.48,debit card,371,clothing,20,10.73,refunded
+372,372,5/27/2021,229.79,credit card,372,home goods,94,16.83,completed
+373,373,5/19/2021,3351.87,PayPal,373,electronics,30,23.74,pending
+374,374,8/31/2020,2063.75,credit card,374,clothing,79,1.14,pending
+375,375,10/10/2020,9235.57,debit card,375,home goods,25,12.22,completed
+376,376,6/5/2021,3382.42,credit card,376,clothing,29,44.35,refunded
+377,377,2/10/2021,9317.57,debit card,377,electronics,92,43.41,refunded
+378,378,8/9/2020,3511.64,PayPal,378,clothing,24,7.65,pending
+379,379,3/12/2021,623.34,credit card,379,clothing,34,49.51,completed
+380,380,3/16/2020,858.85,PayPal,380,home goods,81,25.95,completed
+381,381,10/25/2021,2384.29,credit card,381,home goods,63,27.5,refunded
+382,382,6/21/2020,4654.53,debit card,382,home goods,7,7.54,refunded
+383,383,5/30/2020,156.66,credit card,383,electronics,100,16.13,pending
+384,384,9/29/2021,5249.81,debit card,384,home goods,96,20.89,refunded
+385,385,2/12/2020,7401.45,debit card,385,clothing,2,16.98,refunded
+386,386,9/17/2021,2878.13,credit card,386,electronics,42,24.92,pending
+387,387,4/2/2021,78.3,PayPal,387,electronics,70,30.31,completed
+388,388,4/22/2020,2853.48,debit card,388,electronics,60,49.21,refunded
+389,389,8/17/2020,1795.76,debit card,389,clothing,88,30.68,pending
+390,390,1/12/2020,8013.1,debit card,390,home goods,7,19.7,pending
+391,391,5/1/2020,2896.96,PayPal,391,home goods,60,21.11,refunded
+392,392,4/12/2020,6487.73,credit card,392,electronics,62,28.81,pending
+393,393,3/21/2020,369.53,credit card,393,clothing,2,22.47,completed
+394,394,10/29/2020,7294.74,PayPal,394,electronics,90,12.99,refunded
+395,395,12/7/2020,1922.24,debit card,395,clothing,21,48.91,completed
+396,396,1/3/2021,3059.98,debit card,396,home goods,58,23.21,pending
+397,397,2/11/2020,1962.82,PayPal,397,clothing,23,9.96,refunded
+398,398,2/15/2021,6779.61,PayPal,398,clothing,87,34.14,pending
+399,399,4/22/2021,1915.25,debit card,399,clothing,96,30.15,completed
+400,400,1/10/2020,7399.74,credit card,400,electronics,59,11.05,refunded
+401,401,4/6/2020,1238.44,credit card,401,home goods,51,5.48,pending
+402,402,7/21/2020,9973.11,credit card,402,home goods,46,9.08,completed
+403,403,2/18/2021,3755.55,PayPal,403,electronics,58,10.89,completed
+404,404,5/20/2021,3587.94,debit card,404,home goods,38,27.85,pending
+405,405,7/11/2020,5072.5,debit card,405,electronics,27,39.7,pending
+406,406,6/15/2020,4211.01,debit card,406,home goods,8,6.0,completed
+407,407,4/6/2021,1612.52,debit card,407,electronics,87,39.41,refunded
+408,408,4/26/2020,8228.68,PayPal,408,clothing,89,29.73,pending
+409,409,10/6/2021,5201.3,debit card,409,clothing,91,14.35,pending
+410,410,10/21/2021,1815.43,debit card,410,electronics,15,14.43,pending
+411,411,3/22/2021,4556.09,credit card,411,home goods,47,21.64,refunded
+412,412,11/15/2021,2545.52,credit card,412,electronics,97,6.39,pending
+413,413,12/30/2020,8410.58,credit card,413,home goods,53,36.02,completed
+414,414,7/13/2020,6338.33,credit card,414,home goods,28,11.75,completed
+415,415,6/20/2020,8368.31,PayPal,415,electronics,6,4.99,refunded
+416,416,6/5/2020,2171.23,PayPal,416,electronics,6,36.99,refunded
+417,417,7/12/2020,575.9,credit card,417,home goods,78,35.21,pending
+418,418,3/15/2021,1393.48,debit card,418,electronics,64,37.43,pending
+419,419,1/27/2020,9510.57,credit card,419,home goods,94,3.96,pending
+420,420,11/1/2020,499.51,debit card,420,electronics,89,10.66,refunded
+421,421,12/18/2020,7958.14,credit card,421,clothing,44,27.96,completed
+422,422,9/10/2021,9074.92,debit card,422,home goods,76,32.72,completed
+423,423,7/21/2020,5536.73,debit card,423,home goods,1,27.24,refunded
+424,424,10/18/2021,5715.59,credit card,424,electronics,35,26.05,refunded
+425,425,10/11/2021,74.72,PayPal,425,electronics,66,29.81,refunded
+426,426,3/28/2021,3171.51,credit card,426,electronics,32,34.19,refunded
+427,427,1/9/2020,7881.65,debit card,427,clothing,82,23.36,refunded
+428,428,6/24/2021,8327.59,debit card,428,home goods,95,14.9,refunded
+429,429,6/5/2021,1631.62,debit card,429,electronics,86,28.82,pending
+430,430,3/4/2020,7217.99,PayPal,430,clothing,87,44.07,pending
+431,431,11/24/2021,8626.25,credit card,431,clothing,71,11.33,refunded
+432,432,2/16/2021,3716.74,PayPal,432,home goods,7,38.7,refunded
+433,433,3/31/2021,5390.88,PayPal,433,clothing,79,15.28,refunded
+434,434,11/1/2021,7488.89,debit card,434,electronics,25,39.69,pending
+435,435,11/24/2020,2322.73,credit card,435,home goods,24,14.04,refunded
+436,436,2/25/2020,4161.73,credit card,436,home goods,41,36.16,pending
+437,437,5/6/2021,7913.76,PayPal,437,electronics,74,45.91,refunded
+438,438,6/14/2020,4794.09,credit card,438,electronics,19,25.05,refunded
+439,439,8/28/2021,8813.7,debit card,439,electronics,55,3.43,refunded
+440,440,12/2/2021,8211.88,credit card,440,electronics,46,12.8,refunded
+441,441,6/24/2021,9740.08,credit card,441,clothing,42,0.39,refunded
+442,442,12/4/2020,6163.48,debit card,442,electronics,71,21.71,refunded
+443,443,6/29/2021,5519.31,debit card,443,clothing,19,32.13,completed
+444,444,5/9/2021,5326.67,debit card,444,electronics,57,21.19,refunded
+445,445,10/9/2020,4000.09,credit card,445,home goods,11,6.49,refunded
+446,446,3/25/2021,1885.1,PayPal,446,clothing,34,38.56,refunded
+447,447,9/26/2021,6340.27,PayPal,447,electronics,19,48.51,completed
+448,448,2/24/2020,4118.92,credit card,448,home goods,53,17.57,refunded
+449,449,2/25/2021,270.66,credit card,449,electronics,51,8.67,pending
+450,450,5/25/2021,9470.55,PayPal,450,electronics,81,14.19,pending
+451,451,11/11/2020,4872.03,PayPal,451,electronics,68,33.8,completed
+452,452,3/31/2021,2035.08,PayPal,452,clothing,23,21.76,refunded
+453,453,1/23/2021,3862.93,PayPal,453,electronics,89,38.82,refunded
+454,454,9/16/2020,7471.62,credit card,454,clothing,29,33.93,refunded
+455,455,9/12/2020,917.45,PayPal,455,electronics,98,7.03,pending
+456,456,8/21/2021,3240.55,credit card,456,electronics,53,11.14,completed
+457,457,3/7/2021,3788.31,credit card,457,home goods,42,39.57,completed
+458,458,12/27/2020,6050.38,credit card,458,electronics,10,10.65,completed
+459,459,2/21/2020,2396.27,credit card,459,home goods,82,2.35,refunded
+460,460,1/2/2020,7554.43,PayPal,460,home goods,91,6.83,pending
+461,461,6/19/2020,6345.6,credit card,461,electronics,17,14.47,completed
+462,462,12/21/2021,7156.12,PayPal,462,home goods,66,14.54,refunded
+463,463,5/27/2020,9839.09,PayPal,463,electronics,21,2.02,completed
+464,464,7/12/2020,622.52,PayPal,464,home goods,33,21.69,pending
+465,465,6/1/2020,5756.64,debit card,465,clothing,2,32.46,completed
+466,466,2/14/2021,9511.14,PayPal,466,clothing,15,34.36,pending
+467,467,6/26/2021,9125.07,PayPal,467,home goods,95,36.23,completed
+468,468,7/5/2020,2174.54,debit card,468,electronics,7,5.33,completed
+469,469,7/28/2021,4721.17,debit card,469,home goods,98,43.98,completed
+470,470,6/8/2020,5159.62,debit card,470,electronics,48,16.71,refunded
+471,471,11/10/2020,9504.68,debit card,471,clothing,16,20.43,pending
+472,472,3/1/2020,3103.29,debit card,472,clothing,99,42.72,pending
+473,473,11/3/2021,1538.9,PayPal,473,clothing,71,14.06,completed
+474,474,5/10/2020,7163.36,debit card,474,clothing,87,13.37,completed
+475,475,6/6/2021,1753.04,credit card,475,clothing,93,22.66,refunded
+476,476,12/17/2020,5200.91,credit card,476,electronics,13,22.49,refunded
+477,477,12/2/2020,5481.64,credit card,477,electronics,53,8.77,pending
+478,478,8/19/2020,6239.57,credit card,478,electronics,28,32.8,refunded
+479,479,2/27/2021,4427.79,PayPal,479,electronics,42,21.68,pending
+480,480,7/2/2021,6034.51,PayPal,480,clothing,87,5.61,completed
+481,481,3/7/2020,2321.3,PayPal,481,electronics,3,48.14,completed
+482,482,11/24/2021,8535.79,PayPal,482,electronics,2,46.25,refunded
+483,483,3/20/2020,2596.04,PayPal,483,clothing,90,26.91,completed
+484,484,2/29/2020,9768.73,debit card,484,home goods,100,2.65,completed
+485,485,6/29/2020,7659.27,credit card,485,clothing,42,41.84,pending
+486,486,11/27/2020,2910.08,credit card,486,clothing,55,24.33,pending
+487,487,2/26/2020,6094.27,debit card,487,clothing,96,21.5,pending
+488,488,10/16/2020,9038.51,credit card,488,home goods,93,24.05,pending
+489,489,7/5/2020,9372.5,debit card,489,home goods,92,20.31,completed
+490,490,11/16/2021,2897.56,credit card,490,clothing,47,40.65,completed
+491,491,12/29/2021,3149.05,debit card,491,clothing,54,7.88,refunded
+492,492,12/1/2021,8333.66,debit card,492,clothing,81,10.49,completed
+493,493,12/26/2021,304.92,credit card,493,electronics,88,39.84,pending
+494,494,11/20/2021,7485.74,credit card,494,clothing,6,0.87,completed
+495,495,7/31/2020,9236.26,PayPal,495,clothing,33,42.37,refunded
+496,496,8/25/2021,173.93,PayPal,496,clothing,76,33.05,completed
+497,497,9/19/2021,1574.79,credit card,497,electronics,22,37.86,pending
+498,498,8/29/2020,3947.88,debit card,498,electronics,7,27.13,pending
+499,499,8/22/2021,653.34,PayPal,499,home goods,24,46.92,completed
+500,500,2/25/2020,9402.97,credit card,500,clothing,23,11.43,completed
+501,501,11/16/2020,8056.9,credit card,501,clothing,46,10.61,pending
+502,502,6/29/2021,9808.36,debit card,502,clothing,65,9.85,refunded
+503,503,6/18/2021,492.29,PayPal,503,electronics,84,7.25,completed
+504,504,11/26/2021,8790.76,credit card,504,clothing,70,39.28,refunded
+505,505,2/6/2021,8214.94,PayPal,505,home goods,99,4.55,completed
+506,506,9/24/2021,2384.1,PayPal,506,clothing,32,45.01,pending
+507,507,7/21/2021,7868.59,PayPal,507,electronics,12,48.49,completed
+508,508,11/12/2020,8163.82,debit card,508,clothing,20,49.12,pending
+509,509,11/30/2020,6135.31,debit card,509,electronics,100,43.72,completed
+510,510,10/22/2021,8978.91,PayPal,510,clothing,21,31.46,completed
+511,511,12/9/2021,561.72,debit card,511,clothing,31,22.31,refunded
+512,512,2/29/2020,8283.98,PayPal,512,electronics,8,19.14,refunded
+513,513,4/3/2021,6254.52,credit card,513,home goods,82,12.73,pending
+514,514,1/16/2020,2726.86,PayPal,514,home goods,30,29.76,pending
+515,515,8/31/2020,5388.98,credit card,515,home goods,46,15.21,pending
+516,516,2/5/2021,5967.64,debit card,516,home goods,42,21.83,refunded
+517,517,2/4/2021,8490.84,PayPal,517,electronics,54,11.36,completed
+518,518,12/7/2020,388.38,debit card,518,electronics,31,44.79,completed
+519,519,2/7/2021,5216.72,debit card,519,electronics,75,4.42,refunded
+520,520,9/29/2021,1251.78,credit card,520,home goods,47,44.88,pending
+521,521,2/11/2020,2028.49,PayPal,521,clothing,12,11.41,refunded
+522,522,10/20/2021,9598.08,credit card,522,clothing,7,15.75,pending
+523,523,7/6/2020,5265.05,debit card,523,clothing,77,28.1,pending
+524,524,8/26/2021,1613.07,credit card,524,home goods,54,35.58,refunded
+525,525,3/28/2020,3678.42,credit card,525,clothing,47,21.33,completed
+526,526,9/15/2021,8987.8,PayPal,526,electronics,65,43.96,pending
+527,527,8/19/2021,8711.19,PayPal,527,clothing,52,43.8,completed
+528,528,5/27/2020,1748.62,debit card,528,clothing,5,47.79,refunded
+529,529,5/19/2020,8449.92,credit card,529,electronics,1,31.27,refunded
+530,530,9/7/2021,3086.55,debit card,530,home goods,83,48.75,refunded
+531,531,1/7/2021,3712.04,debit card,531,electronics,21,48.11,completed
+532,532,4/7/2021,4633.11,credit card,532,home goods,39,41.32,completed
+533,533,8/28/2020,5107.17,PayPal,533,electronics,68,43.02,pending
+534,534,8/16/2020,8288.74,PayPal,534,clothing,4,19.44,refunded
+535,535,8/22/2020,4541.2,PayPal,535,home goods,41,44.86,completed
+536,536,3/5/2020,6988.2,debit card,536,home goods,75,15.21,refunded
+537,537,10/22/2020,9768.04,credit card,537,home goods,20,9.41,refunded
+538,538,8/30/2021,6407.73,PayPal,538,electronics,85,31.31,refunded
+539,539,1/19/2020,4958.92,PayPal,539,electronics,84,40.3,refunded
+540,540,10/16/2021,7049.47,credit card,540,electronics,42,34.42,refunded
+541,541,10/28/2020,9299.42,credit card,541,home goods,95,50.0,pending
+542,542,2/6/2021,8835.86,credit card,542,clothing,99,8.63,completed
+543,543,6/28/2021,1996.8,credit card,543,clothing,73,3.29,refunded
+544,544,6/15/2020,7660.99,PayPal,544,home goods,13,46.52,refunded
+545,545,5/31/2020,791.92,debit card,545,home goods,2,28.8,completed
+546,546,11/22/2021,741.78,PayPal,546,home goods,94,34.72,refunded
+547,547,2/15/2021,3274.02,PayPal,547,clothing,17,34.06,pending
+548,548,8/13/2020,6840.1,PayPal,548,home goods,29,7.54,refunded
+549,549,3/1/2020,1746.81,PayPal,549,electronics,56,21.23,refunded
+550,550,5/5/2021,1446.49,credit card,550,electronics,83,24.95,completed
+551,551,4/17/2021,8838.28,credit card,551,clothing,91,2.19,pending
+552,552,7/8/2020,6257.43,credit card,552,electronics,80,18.34,pending
+553,553,10/9/2020,2288.36,PayPal,553,clothing,19,34.4,refunded
+554,554,12/19/2021,2038.06,debit card,554,clothing,96,47.65,refunded
+555,555,1/10/2020,3218.95,credit card,555,electronics,14,30.5,completed
+556,556,8/16/2020,3349.32,PayPal,556,clothing,70,19.53,completed
+557,557,8/28/2021,3973.63,debit card,557,electronics,62,23.0,pending
+558,558,3/3/2020,8339.74,PayPal,558,home goods,48,15.69,pending
+559,559,7/27/2020,4265.91,debit card,559,home goods,91,33.88,completed
+560,560,8/22/2021,5916.65,credit card,560,clothing,83,39.58,refunded
+561,561,10/28/2020,5867.84,debit card,561,electronics,73,10.65,completed
+562,562,2/3/2020,4059.7,credit card,562,clothing,80,45.8,refunded
+563,563,1/10/2021,801.63,debit card,563,electronics,31,21.14,pending
+564,564,6/19/2021,3064.64,debit card,564,clothing,50,9.42,pending
+565,565,10/13/2020,5373.96,PayPal,565,electronics,4,0.89,completed
+566,566,12/21/2020,6484.43,PayPal,566,home goods,95,18.47,pending
+567,567,5/19/2021,6561.69,credit card,567,electronics,13,15.73,refunded
+568,568,7/1/2021,5833.33,debit card,568,home goods,22,9.21,refunded
+569,569,11/1/2021,5490.15,PayPal,569,home goods,25,12.0,completed
+570,570,1/22/2020,7777.56,credit card,570,home goods,18,28.72,pending
+571,571,5/8/2020,8713.65,debit card,571,home goods,13,39.63,refunded
+572,572,7/13/2021,4181.09,credit card,572,home goods,22,12.31,pending
+573,573,4/26/2021,3002.34,PayPal,573,home goods,11,36.67,pending
+574,574,12/11/2021,2111.31,debit card,574,home goods,47,21.02,completed
+575,575,7/3/2021,225.39,credit card,575,clothing,65,43.19,completed
+576,576,12/9/2021,2349.45,PayPal,576,home goods,93,8.86,pending
+577,577,5/17/2020,5783.69,PayPal,577,electronics,6,45.9,completed
+578,578,11/20/2020,6265.19,credit card,578,home goods,75,12.41,pending
+579,579,7/29/2020,6041.09,credit card,579,home goods,47,16.2,pending
+580,580,6/6/2020,7726.8,PayPal,580,clothing,28,30.54,refunded
+581,581,4/2/2020,8494.59,PayPal,581,electronics,96,31.33,pending
+582,582,7/4/2021,6722.91,PayPal,582,home goods,12,24.88,pending
+583,583,7/30/2021,5426.52,debit card,583,clothing,42,37.25,completed
+584,584,12/13/2021,4543.74,credit card,584,clothing,20,6.84,pending
+585,585,3/17/2021,1123.22,debit card,585,clothing,100,30.93,completed
+586,586,2/22/2020,9385.22,PayPal,586,clothing,15,1.51,completed
+587,587,4/30/2021,4379.32,debit card,587,electronics,87,6.78,completed
+588,588,10/27/2020,5942.77,debit card,588,clothing,60,12.13,completed
+589,589,6/13/2020,2922.05,PayPal,589,clothing,34,41.81,refunded
+590,590,4/7/2021,1616.79,PayPal,590,home goods,57,27.58,completed
+591,591,4/11/2020,2126.32,credit card,591,clothing,76,40.36,completed
+592,592,2/20/2021,1100.3,credit card,592,home goods,92,40.87,refunded
+593,593,9/7/2020,1487.63,PayPal,593,home goods,76,38.69,pending
+594,594,7/27/2020,4752.96,debit card,594,home goods,86,25.88,completed
+595,595,2/27/2020,123.19,PayPal,595,clothing,78,20.14,completed
+596,596,4/8/2020,5108.28,credit card,596,clothing,47,2.05,pending
+597,597,6/27/2020,2523.77,credit card,597,home goods,16,46.75,completed
+598,598,6/22/2021,7976.43,credit card,598,clothing,9,48.17,pending
+599,599,1/15/2021,8124.56,credit card,599,clothing,19,17.4,completed
+600,600,1/20/2020,4087.07,credit card,600,home goods,17,17.97,completed
+601,601,4/17/2021,5254.28,debit card,601,electronics,35,42.16,completed
+602,602,11/29/2020,6161.71,debit card,602,home goods,43,3.75,pending
+603,603,8/24/2020,4950.26,PayPal,603,electronics,89,45.21,completed
+604,604,11/4/2020,6969.16,debit card,604,clothing,50,46.88,completed
+605,605,8/18/2021,5101.72,debit card,605,home goods,24,33.55,refunded
+606,606,12/10/2021,2857.25,credit card,606,home goods,11,29.95,refunded
+607,607,8/10/2020,2150.24,PayPal,607,clothing,69,34.79,pending
+608,608,11/23/2020,4954.09,PayPal,608,home goods,39,8.81,completed
+609,609,4/18/2021,4437.88,credit card,609,electronics,21,10.59,pending
+610,610,8/3/2021,6729.9,PayPal,610,electronics,47,24.07,refunded
+611,611,12/22/2021,6903.87,PayPal,611,clothing,85,49.71,pending
+612,612,9/28/2020,4554.61,credit card,612,clothing,21,21.06,completed
+613,613,12/2/2020,8625.26,credit card,613,home goods,74,39.3,pending
+614,614,9/20/2020,1812.69,PayPal,614,electronics,22,47.44,pending
+615,615,2/21/2021,1074.07,credit card,615,clothing,85,10.53,pending
+616,616,2/3/2021,5448.71,debit card,616,electronics,87,47.36,completed
+617,617,1/28/2021,4557.43,PayPal,617,home goods,80,34.58,pending
+618,618,9/3/2021,4498.16,debit card,618,clothing,14,24.43,refunded
+619,619,7/9/2020,2308.21,credit card,619,clothing,25,8.4,refunded
+620,620,1/23/2020,7528.73,PayPal,620,home goods,91,28.77,completed
+621,621,10/15/2020,2013.8,debit card,621,electronics,43,29.25,completed
+622,622,7/7/2020,323.55,debit card,622,home goods,83,24.19,refunded
+623,623,8/16/2020,6153.47,credit card,623,electronics,33,8.17,refunded
+624,624,9/28/2021,9064.25,PayPal,624,electronics,79,49.24,pending
+625,625,11/26/2020,1644.66,PayPal,625,electronics,49,8.84,pending
+626,626,12/14/2021,7999.9,credit card,626,clothing,89,37.66,completed
+627,627,12/26/2020,9409.82,debit card,627,clothing,66,17.67,completed
+628,628,8/7/2021,5277.73,PayPal,628,clothing,78,39.01,completed
+629,629,7/20/2021,7216.95,credit card,629,home goods,55,23.04,pending
+630,630,1/23/2021,9391.14,debit card,630,home goods,80,38.22,completed
+631,631,2/6/2021,8784.14,PayPal,631,clothing,25,17.12,completed
+632,632,11/22/2020,5037.79,PayPal,632,home goods,33,0.82,pending
+633,633,8/3/2021,6902.62,debit card,633,home goods,20,7.25,pending
+634,634,12/16/2021,371.65,PayPal,634,clothing,74,42.81,refunded
+635,635,3/6/2021,8333.11,PayPal,635,clothing,38,35.66,refunded
+636,636,4/18/2020,4545.82,debit card,636,home goods,64,29.42,completed
+637,637,8/11/2020,8139.52,debit card,637,clothing,3,34.49,completed
+638,638,3/28/2021,434.44,debit card,638,home goods,6,23.14,pending
+639,639,2/23/2021,2783.04,debit card,639,clothing,87,22.93,completed
+640,640,4/28/2020,7033.99,PayPal,640,clothing,30,11.36,pending
+641,641,6/25/2021,5403.74,debit card,641,clothing,98,43.3,completed
+642,642,7/8/2021,9465.33,PayPal,642,clothing,62,30.42,refunded
+643,643,1/28/2020,4750.81,debit card,643,clothing,7,8.12,pending
+644,644,3/27/2020,2328.62,PayPal,644,home goods,29,23.69,completed
+645,645,7/20/2020,9955.29,credit card,645,clothing,15,25.98,completed
+646,646,9/9/2020,6606.06,debit card,646,electronics,46,10.76,refunded
+647,647,2/15/2020,7170.79,debit card,647,home goods,96,31.16,completed
+648,648,5/25/2020,1342.92,PayPal,648,home goods,68,25.67,refunded
+649,649,4/15/2021,3804.92,debit card,649,home goods,50,29.19,pending
+650,650,7/22/2021,6045.09,PayPal,650,clothing,6,46.17,pending
+651,651,3/27/2021,1560.82,credit card,651,electronics,58,27.24,refunded
+652,652,7/17/2021,8562.56,debit card,652,home goods,41,24.7,refunded
+653,653,12/25/2020,4235.69,debit card,653,electronics,53,4.64,completed
+654,654,10/21/2020,9933.03,debit card,654,electronics,98,2.8,pending
+655,655,2/1/2021,6454.23,debit card,655,home goods,84,48.03,pending
+656,656,7/15/2020,7775.6,credit card,656,clothing,17,36.05,pending
+657,657,3/1/2020,9960.47,PayPal,657,electronics,52,31.92,pending
+658,658,9/26/2021,2070.99,PayPal,658,electronics,40,26.64,refunded
+659,659,11/29/2021,8430.27,credit card,659,electronics,53,38.54,pending
+660,660,10/30/2020,8702.69,PayPal,660,clothing,11,18.42,pending
+661,661,4/22/2021,9641.18,PayPal,661,home goods,75,33.41,pending
+662,662,3/27/2021,7381.89,credit card,662,home goods,21,24.37,pending
+663,663,11/14/2021,8995.02,credit card,663,home goods,72,28.91,refunded
+664,664,7/9/2021,2425.7,debit card,664,electronics,29,24.44,pending
+665,665,5/16/2020,8770.74,debit card,665,home goods,29,39.24,completed
+666,666,8/1/2021,4131.73,debit card,666,electronics,74,27.81,refunded
+667,667,1/13/2020,7556.22,debit card,667,electronics,83,33.95,refunded
+668,668,5/24/2020,4238.47,PayPal,668,home goods,39,40.0,completed
+669,669,4/27/2020,8067.87,debit card,669,clothing,36,49.83,completed
+670,670,3/30/2020,2787.87,debit card,670,home goods,6,0.13,completed
+671,671,12/8/2021,2900.65,PayPal,671,clothing,36,40.58,refunded
+672,672,12/3/2021,7615.62,PayPal,672,home goods,47,1.51,refunded
+673,673,2/26/2021,9499.96,debit card,673,electronics,5,3.41,refunded
+674,674,7/10/2021,9492.67,debit card,674,electronics,13,41.95,pending
+675,675,2/21/2021,1049.02,debit card,675,electronics,73,9.97,completed
+676,676,9/8/2020,9932.72,PayPal,676,electronics,32,37.65,completed
+677,677,8/2/2021,8465.13,credit card,677,home goods,39,10.99,pending
+678,678,6/16/2020,7030.18,debit card,678,home goods,16,27.93,pending
+679,679,3/24/2021,8594.58,credit card,679,home goods,41,5.78,completed
+680,680,7/30/2020,8635.29,credit card,680,home goods,22,27.67,pending
+681,681,7/24/2021,1844.55,PayPal,681,clothing,23,24.73,completed
+682,682,4/21/2021,5149.05,PayPal,682,clothing,83,43.79,pending
+683,683,3/17/2020,514.88,debit card,683,clothing,85,13.14,completed
+684,684,4/6/2020,9862.65,credit card,684,clothing,87,30.02,refunded
+685,685,6/9/2021,3240.48,credit card,685,home goods,78,46.79,refunded
+686,686,10/3/2020,3787.7,PayPal,686,home goods,67,47.76,completed
+687,687,1/8/2020,7103.12,credit card,687,electronics,94,38.39,pending
+688,688,5/13/2020,4305.88,credit card,688,home goods,68,42.84,pending
+689,689,12/21/2021,7407.68,credit card,689,clothing,1,6.74,completed
+690,690,12/25/2021,788.28,PayPal,690,electronics,5,7.28,pending
+691,691,6/13/2021,3877.66,credit card,691,home goods,74,38.25,refunded
+692,692,4/4/2021,9446.53,debit card,692,home goods,42,1.02,pending
+693,693,11/15/2021,1382.21,debit card,693,home goods,83,38.95,completed
+694,694,12/1/2021,1161.88,credit card,694,electronics,64,8.13,pending
+695,695,7/4/2021,7775.66,credit card,695,electronics,52,44.77,pending
+696,696,11/10/2021,1076.02,debit card,696,home goods,92,16.4,completed
+697,697,2/10/2020,1036.7,credit card,697,clothing,22,41.62,pending
+698,698,2/1/2021,8151.35,PayPal,698,electronics,92,36.49,pending
+699,699,2/28/2021,9933.53,credit card,699,home goods,99,45.34,refunded
+700,700,6/21/2020,9132.83,credit card,700,home goods,32,39.78,refunded
+701,701,7/8/2021,4442.0,PayPal,701,electronics,30,23.55,refunded
+702,702,4/6/2020,6691.82,debit card,702,clothing,47,5.31,refunded
+703,703,4/27/2021,9394.74,PayPal,703,electronics,90,3.42,completed
+704,704,1/25/2020,4637.27,PayPal,704,clothing,23,17.41,pending
+705,705,7/11/2021,510.87,credit card,705,home goods,76,48.93,pending
+706,706,1/25/2020,1554.2,credit card,706,electronics,73,2.28,refunded
+707,707,3/5/2020,2927.78,debit card,707,home goods,77,39.86,pending
+708,708,7/18/2021,8552.83,PayPal,708,home goods,4,40.51,refunded
+709,709,7/2/2020,7822.72,debit card,709,home goods,42,16.45,pending
+710,710,4/12/2020,4830.12,PayPal,710,electronics,45,46.85,completed
+711,711,6/21/2021,3212.12,PayPal,711,home goods,53,25.9,completed
+712,712,2/20/2021,4952.07,PayPal,712,home goods,62,43.65,completed
+713,713,7/23/2020,3043.62,debit card,713,home goods,18,15.3,completed
+714,714,11/27/2020,1766.91,credit card,714,electronics,84,10.51,completed
+715,715,6/10/2021,2997.74,debit card,715,clothing,28,16.4,refunded
+716,716,10/20/2020,4009.18,credit card,716,electronics,46,43.07,pending
+717,717,3/19/2020,3963.7,debit card,717,electronics,25,10.5,completed
+718,718,1/13/2021,7759.02,debit card,718,clothing,95,21.36,pending
+719,719,2/10/2021,2411.96,credit card,719,electronics,87,1.31,refunded
+720,720,7/5/2020,2188.65,PayPal,720,home goods,99,37.72,refunded
+721,721,9/18/2020,6544.88,credit card,721,home goods,76,45.34,refunded
+722,722,2/1/2020,5080.99,credit card,722,electronics,98,13.74,pending
+723,723,5/2/2020,135.25,PayPal,723,electronics,71,24.38,completed
+724,724,8/3/2021,2370.21,PayPal,724,home goods,89,24.02,completed
+725,725,7/17/2020,7335.45,credit card,725,clothing,10,25.76,pending
+726,726,11/25/2021,4856.03,credit card,726,electronics,28,23.88,completed
+727,727,10/23/2021,209.88,credit card,727,clothing,14,9.47,pending
+728,728,8/13/2020,8532.15,PayPal,728,clothing,80,31.44,completed
+729,729,3/9/2021,1140.35,credit card,729,electronics,47,13.71,refunded
+730,730,3/1/2020,8412.45,PayPal,730,home goods,97,9.5,completed
+731,731,5/19/2020,8488.27,PayPal,731,electronics,10,14.68,completed
+732,732,5/24/2021,8653.94,credit card,732,electronics,38,0.08,completed
+733,733,9/21/2020,6565.85,debit card,733,clothing,79,13.66,completed
+734,734,7/13/2020,147.64,debit card,734,clothing,16,31.34,completed
+735,735,6/22/2021,1065.99,credit card,735,clothing,17,17.21,refunded
+736,736,1/7/2020,5228.34,credit card,736,clothing,95,42.08,completed
+737,737,1/30/2021,3992.13,debit card,737,clothing,27,46.01,completed
+738,738,1/22/2020,6430.59,debit card,738,home goods,83,11.33,pending
+739,739,9/21/2021,3147.88,credit card,739,home goods,88,23.95,refunded
+740,740,8/2/2021,4266.13,debit card,740,clothing,70,18.06,completed
+741,741,11/14/2020,1818.4,PayPal,741,home goods,64,8.25,pending
+742,742,3/1/2020,3352.99,credit card,742,electronics,5,47.78,refunded
+743,743,3/18/2020,2919.47,debit card,743,home goods,78,46.41,refunded
+744,744,3/9/2020,1809.02,debit card,744,home goods,97,10.78,pending
+745,745,2/10/2020,1945.99,debit card,745,home goods,75,45.75,refunded
+746,746,7/20/2020,4424.74,credit card,746,clothing,94,41.76,completed
+747,747,12/24/2020,7884.62,credit card,747,home goods,9,29.76,refunded
+748,748,8/4/2020,9079.99,debit card,748,electronics,20,34.9,pending
+749,749,10/22/2020,3747.55,PayPal,749,home goods,31,16.66,completed
+750,750,3/14/2021,8508.54,PayPal,750,electronics,92,9.13,refunded
+751,751,12/4/2021,3786.54,PayPal,751,electronics,27,6.61,pending
+752,752,7/28/2020,4779.5,PayPal,752,home goods,16,38.92,refunded
+753,753,9/26/2020,6399.81,credit card,753,home goods,37,37.24,refunded
+754,754,8/13/2020,4385.47,debit card,754,clothing,2,43.9,refunded
+755,755,9/12/2020,6863.62,credit card,755,home goods,34,23.34,pending
+756,756,3/6/2021,1222.09,debit card,756,home goods,47,0.98,completed
+757,757,1/18/2020,4585.28,PayPal,757,electronics,42,15.88,refunded
+758,758,1/5/2020,9085.89,credit card,758,home goods,96,31.86,completed
+759,759,10/7/2020,9296.97,PayPal,759,home goods,97,11.25,pending
+760,760,10/18/2021,7449.17,debit card,760,clothing,40,28.76,pending
+761,761,2/12/2021,6013.13,debit card,761,electronics,51,15.39,pending
+762,762,7/28/2021,9248.39,PayPal,762,home goods,43,13.77,pending
+763,763,1/12/2021,558.85,credit card,763,clothing,36,33.34,completed
+764,764,5/11/2020,4694.36,credit card,764,electronics,17,42.85,completed
+765,765,6/20/2021,3728.11,debit card,765,clothing,47,42.19,refunded
+766,766,7/14/2021,592.31,PayPal,766,home goods,96,31.76,completed
+767,767,1/26/2021,163.9,debit card,767,home goods,44,34.16,refunded
+768,768,5/16/2021,8914.39,credit card,768,home goods,67,27.16,completed
+769,769,1/21/2021,7446.02,PayPal,769,clothing,33,39.61,pending
+770,770,3/29/2020,9576.61,debit card,770,clothing,26,13.98,refunded
+771,771,1/31/2021,5168.24,PayPal,771,home goods,43,24.98,pending
+772,772,10/13/2020,7797.77,PayPal,772,electronics,47,31.3,refunded
+773,773,8/12/2020,9809.29,PayPal,773,electronics,15,23.99,completed
+774,774,10/4/2021,3922.76,debit card,774,home goods,97,3.05,completed
+775,775,1/10/2021,2691.7,debit card,775,clothing,77,11.93,pending
+776,776,11/9/2021,8888.0,debit card,776,electronics,30,14.47,completed
+777,777,1/28/2020,9465.46,PayPal,777,clothing,63,43.47,completed
+778,778,9/22/2021,6719.17,credit card,778,home goods,96,6.14,completed
+779,779,8/15/2021,9953.46,PayPal,779,clothing,93,39.21,pending
+780,780,3/16/2021,6998.97,PayPal,780,home goods,5,1.86,completed
+781,781,8/17/2020,3219.94,credit card,781,electronics,6,5.41,completed
+782,782,10/5/2021,3785.98,debit card,782,home goods,52,20.73,pending
+783,783,2/7/2020,470.85,debit card,783,clothing,42,7.34,refunded
+784,784,9/20/2020,487.38,credit card,784,electronics,55,26.73,pending
+785,785,5/9/2021,8774.24,debit card,785,home goods,82,19.58,completed
+786,786,2/4/2021,5343.73,debit card,786,clothing,6,17.38,completed
+787,787,2/2/2021,6820.38,credit card,787,electronics,31,47.25,refunded
+788,788,7/6/2021,2287.9,debit card,788,electronics,49,25.36,pending
+789,789,11/10/2021,8207.97,PayPal,789,clothing,47,16.74,pending
+790,790,12/23/2020,9638.94,PayPal,790,clothing,66,0.69,refunded
+791,791,3/10/2020,646.19,debit card,791,clothing,71,16.96,pending
+792,792,4/29/2020,7383.24,credit card,792,clothing,86,37.69,completed
+793,793,2/7/2021,9247.82,credit card,793,home goods,54,9.99,pending
+794,794,9/6/2020,7736.66,PayPal,794,clothing,43,40.41,pending
+795,795,8/20/2020,7738.65,PayPal,795,electronics,33,17.16,refunded
+796,796,12/11/2021,869.11,credit card,796,electronics,24,23.35,completed
+797,797,5/16/2020,2129.73,credit card,797,home goods,14,38.36,refunded
+798,798,7/11/2020,6973.13,debit card,798,electronics,51,11.93,pending
+799,799,8/8/2020,9374.85,credit card,799,clothing,27,13.71,refunded
+800,800,3/4/2020,5883.99,debit card,800,electronics,47,28.76,completed
+801,801,2/4/2021,2106.21,PayPal,801,electronics,36,6.4,refunded
+802,802,2/17/2020,6502.22,debit card,802,electronics,54,48.96,pending
+803,803,6/26/2021,3773.87,debit card,803,home goods,87,27.75,pending
+804,804,4/25/2021,8583.03,credit card,804,home goods,49,9.72,refunded
+805,805,3/10/2021,1093.97,PayPal,805,home goods,69,3.9,refunded
+806,806,2/15/2020,319.19,credit card,806,electronics,4,35.89,refunded
+807,807,10/11/2021,1155.81,PayPal,807,electronics,68,29.35,refunded
+808,808,2/4/2021,5360.31,PayPal,808,clothing,24,20.19,pending
+809,809,4/14/2021,270.9,debit card,809,clothing,87,15.62,pending
+810,810,12/1/2021,5958.24,credit card,810,electronics,54,45.54,pending
+811,811,10/6/2021,5533.33,PayPal,811,electronics,78,1.25,pending
+812,812,1/3/2020,4179.17,PayPal,812,clothing,12,44.89,refunded
+813,813,6/22/2020,5788.68,debit card,813,home goods,62,33.32,completed
+814,814,8/4/2021,2173.77,debit card,814,home goods,92,30.81,completed
+815,815,2/18/2021,9030.32,PayPal,815,electronics,46,4.87,pending
+816,816,7/28/2021,5927.58,PayPal,816,electronics,3,39.12,completed
+817,817,6/27/2020,3462.33,PayPal,817,clothing,81,25.22,pending
+818,818,1/17/2021,7321.03,PayPal,818,clothing,22,20.0,refunded
+819,819,6/27/2021,9518.15,PayPal,819,electronics,15,6.77,completed
+820,820,8/15/2021,8279.29,debit card,820,clothing,46,5.81,completed
+821,821,5/1/2021,3319.66,PayPal,821,electronics,33,49.43,refunded
+822,822,6/1/2020,2891.94,credit card,822,clothing,92,18.27,pending
+823,823,12/17/2020,1552.11,PayPal,823,home goods,58,5.21,pending
+824,824,12/20/2020,7137.84,PayPal,824,clothing,29,48.49,pending
+825,825,1/21/2020,8038.63,debit card,825,home goods,100,28.36,refunded
+826,826,1/18/2020,1937.42,PayPal,826,clothing,43,28.82,completed
+827,827,4/3/2020,3841.13,credit card,827,home goods,77,41.12,pending
+828,828,1/1/2020,1384.64,debit card,828,home goods,61,3.78,completed
+829,829,10/15/2021,9987.79,PayPal,829,home goods,44,22.98,pending
+830,830,8/13/2020,1671.25,credit card,830,electronics,76,19.87,refunded
+831,831,6/30/2021,3081.81,debit card,831,clothing,46,43.03,pending
+832,832,1/10/2021,5525.63,credit card,832,clothing,38,15.26,refunded
+833,833,7/29/2021,6565.87,PayPal,833,clothing,26,33.33,refunded
+834,834,6/8/2021,6709.2,credit card,834,electronics,22,2.63,completed
+835,835,2/10/2021,2683.59,credit card,835,clothing,59,40.23,refunded
+836,836,12/5/2021,8954.91,PayPal,836,electronics,18,5.52,completed
+837,837,8/1/2021,4011.42,debit card,837,clothing,65,20.34,pending
+838,838,2/27/2020,6689.07,debit card,838,clothing,87,7.2,refunded
+839,839,3/3/2020,8695.54,PayPal,839,electronics,61,40.35,completed
+840,840,3/3/2020,7475.88,credit card,840,home goods,38,11.27,pending
+841,841,3/11/2020,5042.46,debit card,841,electronics,22,33.79,refunded
+842,842,1/24/2021,8352.74,debit card,842,home goods,86,46.91,completed
+843,843,1/29/2020,98.68,debit card,843,home goods,65,26.08,completed
+844,844,7/16/2021,6290.39,credit card,844,home goods,71,19.07,refunded
+845,845,12/21/2021,7839.55,PayPal,845,electronics,61,5.48,completed
+846,846,4/12/2020,749.73,debit card,846,electronics,35,37.66,pending
+847,847,3/20/2020,138.11,PayPal,847,clothing,95,38.16,refunded
+848,848,4/21/2021,9856.42,PayPal,848,home goods,41,35.69,completed
+849,849,3/23/2021,5173.65,PayPal,849,clothing,37,13.26,refunded
+850,850,3/12/2020,3197.97,credit card,850,electronics,83,3.26,completed
+851,851,7/25/2021,7803.7,PayPal,851,clothing,46,3.36,refunded
+852,852,6/9/2021,9513.01,PayPal,852,clothing,83,17.34,completed
+853,853,4/18/2021,2681.44,PayPal,853,electronics,87,24.32,completed
+854,854,10/16/2020,736.6,PayPal,854,clothing,12,30.48,refunded
+855,855,1/11/2021,5489.67,debit card,855,electronics,92,9.24,pending
+856,856,1/29/2020,9827.75,credit card,856,home goods,90,43.76,completed
+857,857,2/9/2021,216.02,credit card,857,electronics,91,19.68,completed
+858,858,10/17/2021,9907.52,PayPal,858,clothing,47,15.69,pending
+859,859,1/23/2020,3385.07,credit card,859,electronics,4,30.49,pending
+860,860,8/11/2021,583.03,debit card,860,clothing,39,33.71,pending
+861,861,3/22/2020,7687.96,debit card,861,electronics,62,0.74,completed
+862,862,8/21/2020,5747.34,debit card,862,home goods,48,14.7,refunded
+863,863,3/24/2020,421.98,debit card,863,home goods,69,38.89,refunded
+864,864,11/16/2021,9330.24,credit card,864,home goods,9,34.17,completed
+865,865,4/20/2020,1473.08,credit card,865,electronics,90,48.02,refunded
+866,866,2/15/2021,890.01,PayPal,866,home goods,62,4.06,completed
+867,867,5/9/2020,7410.52,debit card,867,home goods,54,42.19,completed
+868,868,1/20/2021,8369.72,credit card,868,clothing,64,25.73,pending
+869,869,3/6/2021,1177.12,debit card,869,clothing,57,32.49,completed
+870,870,3/9/2020,2659.02,PayPal,870,electronics,5,20.19,refunded
+871,871,8/26/2020,3683.73,PayPal,871,clothing,88,31.96,completed
+872,872,10/2/2020,5015.05,PayPal,872,clothing,18,17.72,completed
+873,873,2/22/2021,4095.15,credit card,873,electronics,81,40.58,refunded
+874,874,3/12/2020,5649.66,PayPal,874,electronics,22,26.38,refunded
+875,875,7/17/2020,9436.55,debit card,875,electronics,19,14.27,refunded
+876,876,12/1/2021,1302.62,credit card,876,electronics,63,13.47,refunded
+877,877,7/28/2020,3227.34,debit card,877,electronics,14,7.86,refunded
+878,878,12/1/2021,6314.97,credit card,878,home goods,51,14.19,refunded
+879,879,12/12/2021,2433.67,debit card,879,electronics,60,45.62,refunded
+880,880,12/1/2021,970.48,debit card,880,home goods,60,37.2,pending
+881,881,8/7/2020,5791.16,debit card,881,electronics,34,44.35,refunded
+882,882,2/25/2020,9586.18,credit card,882,electronics,8,31.33,completed
+883,883,3/22/2020,6960.07,PayPal,883,electronics,21,4.07,refunded
+884,884,12/16/2020,3702.37,PayPal,884,electronics,42,16.99,completed
+885,885,5/30/2021,7471.22,PayPal,885,electronics,37,3.12,refunded
+886,886,8/2/2020,4689.85,PayPal,886,electronics,60,5.59,completed
+887,887,5/29/2021,6903.7,credit card,887,home goods,80,46.53,pending
+888,888,4/5/2021,1049.51,PayPal,888,clothing,40,1.68,refunded
+889,889,6/19/2020,7749.01,PayPal,889,electronics,34,46.29,refunded
+890,890,6/22/2021,2424.27,PayPal,890,clothing,11,49.59,refunded
+891,891,10/13/2020,3438.26,debit card,891,clothing,63,12.32,completed
+892,892,5/2/2021,6369.13,PayPal,892,clothing,83,23.43,completed
+893,893,12/7/2021,9660.66,credit card,893,home goods,70,20.48,pending
+894,894,2/7/2020,2155.84,debit card,894,home goods,48,5.88,refunded
+895,895,6/14/2021,9444.63,debit card,895,electronics,34,0.22,pending
+896,896,1/14/2021,9727.05,PayPal,896,clothing,51,19.7,completed
+897,897,5/21/2020,6422.48,debit card,897,electronics,13,31.77,pending
+898,898,5/11/2021,1905.09,debit card,898,home goods,89,7.9,pending
+899,899,6/17/2021,8495.61,PayPal,899,home goods,65,43.22,refunded
+900,900,9/14/2021,1973.65,PayPal,900,clothing,3,36.98,pending
+901,901,10/29/2020,1719.77,credit card,901,home goods,90,3.75,pending
+902,902,6/9/2021,4866.15,PayPal,902,clothing,37,45.08,completed
+903,903,11/3/2020,2351.28,credit card,903,electronics,62,11.74,completed
+904,904,4/27/2020,9183.32,debit card,904,clothing,28,31.74,pending
+905,905,6/30/2021,5228.83,credit card,905,electronics,35,17.26,pending
+906,906,7/23/2020,201.51,debit card,906,clothing,22,30.94,refunded
+907,907,12/18/2020,2836.04,credit card,907,clothing,55,45.89,completed
+908,908,8/15/2021,5220.83,PayPal,908,clothing,34,23.12,pending
+909,909,11/2/2021,7536.28,PayPal,909,electronics,47,44.59,completed
+910,910,5/30/2020,6924.08,debit card,910,home goods,85,42.3,pending
+911,911,12/20/2020,7347.33,PayPal,911,home goods,7,45.65,refunded
+912,912,11/22/2021,9166.32,credit card,912,electronics,55,39.33,refunded
+913,913,8/31/2021,1682.88,debit card,913,electronics,87,8.08,completed
+914,914,2/8/2021,8520.46,PayPal,914,home goods,75,13.57,pending
+915,915,3/12/2021,6728.23,debit card,915,clothing,2,43.12,completed
+916,916,6/19/2020,7138.33,PayPal,916,clothing,23,6.66,completed
+917,917,2/6/2020,886.55,credit card,917,clothing,91,26.87,refunded
+918,918,7/30/2020,7423.49,PayPal,918,home goods,93,2.87,pending
+919,919,11/26/2020,5348.11,PayPal,919,electronics,49,22.91,pending
+920,920,4/10/2021,9621.26,debit card,920,home goods,7,47.92,completed
+921,921,5/16/2020,3105.31,credit card,921,home goods,35,27.55,pending
+922,922,12/19/2020,4861.93,PayPal,922,electronics,77,22.51,refunded
+923,923,12/10/2021,197.48,credit card,923,home goods,95,38.65,refunded
+924,924,1/5/2020,5742.91,credit card,924,clothing,61,32.79,pending
+925,925,8/12/2020,9675.51,PayPal,925,clothing,22,41.68,refunded
+926,926,3/8/2020,257.8,PayPal,926,clothing,63,21.96,completed
+927,927,4/28/2020,8524.99,credit card,927,electronics,29,47.34,completed
+928,928,4/26/2021,6902.79,credit card,928,electronics,39,43.81,pending
+929,929,1/15/2021,3073.57,debit card,929,clothing,23,37.38,pending
+930,930,6/6/2021,1930.1,debit card,930,electronics,43,32.9,pending
+931,931,3/20/2021,5527.17,credit card,931,clothing,4,47.96,completed
+932,932,2/8/2021,8441.9,PayPal,932,home goods,7,42.56,refunded
+933,933,5/6/2021,5185.82,credit card,933,clothing,100,37.01,pending
+934,934,5/4/2020,5215.0,PayPal,934,clothing,65,0.31,pending
+935,935,4/4/2020,5280.8,PayPal,935,clothing,4,34.84,refunded
+936,936,1/30/2020,6583.24,debit card,936,home goods,37,24.95,pending
+937,937,11/12/2021,5532.38,debit card,937,electronics,88,15.39,refunded
+938,938,10/9/2020,4535.96,debit card,938,clothing,72,30.95,refunded
+939,939,8/14/2020,3528.2,PayPal,939,electronics,5,12.32,pending
+940,940,5/23/2021,5059.11,PayPal,940,clothing,43,18.47,refunded
+941,941,10/15/2020,5641.6,PayPal,941,home goods,47,9.9,refunded
+942,942,1/17/2021,4004.31,PayPal,942,electronics,82,0.52,pending
+943,943,1/23/2020,8476.64,PayPal,943,clothing,45,8.43,pending
+944,944,5/4/2021,7532.34,PayPal,944,home goods,43,31.18,refunded
+945,945,9/2/2020,1153.73,PayPal,945,clothing,11,16.6,completed
+946,946,3/12/2020,589.48,debit card,946,electronics,31,46.93,refunded
+947,947,3/16/2020,6163.99,credit card,947,electronics,11,21.16,refunded
+948,948,5/26/2020,4263.41,debit card,948,electronics,66,38.55,completed
+949,949,6/26/2021,5258.15,credit card,949,electronics,14,30.74,completed
+950,950,6/7/2020,5842.4,PayPal,950,electronics,9,28.0,pending
+951,951,2/15/2021,7717.83,PayPal,951,home goods,9,42.09,completed
+952,952,5/15/2020,2355.79,credit card,952,home goods,46,30.81,completed
+953,953,9/9/2021,5621.51,PayPal,953,home goods,17,27.07,completed
+954,954,2/15/2020,7341.37,debit card,954,home goods,91,16.37,pending
+955,955,4/12/2021,6139.2,PayPal,955,home goods,36,22.79,pending
+956,956,6/16/2020,5287.21,PayPal,956,electronics,50,19.13,pending
+957,957,10/25/2020,3820.19,PayPal,957,electronics,95,11.06,refunded
+958,958,9/5/2021,3546.59,debit card,958,home goods,78,3.68,completed
+959,959,6/16/2020,8968.32,debit card,959,electronics,45,15.85,refunded
+960,960,5/14/2020,8160.82,debit card,960,clothing,35,14.18,pending
+961,961,9/17/2021,4954.54,debit card,961,home goods,72,3.19,pending
+962,962,12/23/2021,6574.54,debit card,962,home goods,61,20.36,completed
+963,963,4/27/2020,6894.87,credit card,963,clothing,67,7.4,pending
+964,964,3/25/2021,336.08,credit card,964,home goods,10,10.71,pending
+965,965,4/11/2020,3324.48,credit card,965,home goods,70,18.29,pending
+966,966,10/23/2021,4854.63,debit card,966,clothing,70,23.89,refunded
+967,967,9/12/2020,1755.82,debit card,967,home goods,98,43.44,pending
+968,968,12/25/2020,2798.53,PayPal,968,clothing,34,31.78,completed
+969,969,4/4/2021,108.7,credit card,969,home goods,97,32.04,pending
+970,970,6/30/2021,7986.41,debit card,970,clothing,50,22.31,completed
+971,971,6/20/2021,7139.17,debit card,971,clothing,64,38.86,refunded
+972,972,1/17/2021,8109.43,PayPal,972,electronics,43,42.15,refunded
+973,973,5/2/2020,1276.8,debit card,973,electronics,13,39.53,pending
+974,974,11/27/2021,9844.32,PayPal,974,clothing,82,47.44,refunded
+975,975,4/24/2020,9986.82,credit card,975,clothing,6,43.33,completed
+976,976,2/21/2020,2239.99,PayPal,976,home goods,96,1.53,pending
+977,977,7/14/2020,2172.53,credit card,977,home goods,62,49.99,completed
+978,978,3/15/2021,601.55,credit card,978,electronics,100,40.75,pending
+979,979,1/23/2020,1676.33,debit card,979,clothing,76,28.3,refunded
+980,980,2/26/2021,4229.56,PayPal,980,electronics,30,28.89,pending
+981,981,6/16/2021,7011.13,debit card,981,clothing,33,19.64,refunded
+982,982,6/24/2021,1245.33,debit card,982,clothing,95,5.06,completed
+983,983,4/24/2021,9682.02,credit card,983,electronics,78,15.27,pending
+984,984,1/29/2021,1414.73,debit card,984,home goods,28,47.76,refunded
+985,985,11/19/2021,9475.05,PayPal,985,electronics,42,31.66,pending
+986,986,1/24/2020,7223.39,PayPal,986,clothing,30,7.54,completed
+987,987,12/8/2020,2476.25,credit card,987,electronics,25,21.03,pending
+988,988,7/29/2021,2838.74,credit card,988,clothing,75,42.6,pending
+989,989,12/19/2021,4348.54,credit card,989,electronics,91,19.23,pending
+990,990,12/27/2020,3886.12,credit card,990,home goods,50,10.63,refunded
+991,991,7/4/2020,8065.97,PayPal,991,electronics,62,11.65,pending
+992,992,11/30/2020,5072.57,PayPal,992,home goods,40,30.21,pending
+993,993,9/23/2020,9608.56,debit card,993,clothing,59,21.24,refunded
+994,994,12/19/2021,2903.78,PayPal,994,electronics,8,21.79,refunded
+995,995,9/16/2021,6247.5,debit card,995,electronics,47,8.44,pending
+996,996,10/16/2021,1812.78,PayPal,996,electronics,27,26.89,refunded
+997,997,7/17/2020,7903.72,debit card,997,home goods,29,22.3,refunded
+998,998,11/25/2021,7005.67,debit card,998,clothing,41,26.84,completed
+999,999,10/7/2021,9531.41,debit card,999,home goods,6,40.49,pending
+1000,1000,9/26/2021,2204.04,PayPal,1000,clothing,83,14.43,refunded
